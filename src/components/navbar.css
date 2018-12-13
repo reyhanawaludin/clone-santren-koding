@@ -1,0 +1,28 @@
+.navbarku{
+    margin: 0px 10px 0px 10px;
+    color: rgb(119, 119, 119);
+    cursor: pointer;
+}
+.navbarku:hover{
+    color: black;
+}
+.mye{
+    background-color: rgba(255, 255, 255, 0);
+    border-color: blue;
+    font-family: "Century Gothic";
+    font-size: 15px;
+    width: 130px;
+    cursor: pointer;
+    height: 35px;
+    border-radius: 3px;
+    border-width: 1px;
+    color: blue;
+}
+.mye:hover{
+    background-color: rgb(61, 61, 255);
+    color: white;
+}
+.mynav{
+    cursor: pointer;
+    color: brown;
+}
